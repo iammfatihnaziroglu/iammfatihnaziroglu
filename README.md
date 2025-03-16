@@ -46,9 +46,6 @@
 
 </div>
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammfatihnaziroglu&show_icons=true&theme=dark&bg_color=0D1117&title_color=0366D6&text_color=ffffff&icon_color=0366D6)
-
 
 
 
